@@ -1,2 +1,8 @@
-# Chess-Pattern-CSS-JS-
-8X 8 Chess Pattern With HTML ,CSS And JS  
+# Chess-Pattern-CSS-JS
+
+
+![pattern](https://i.imgur.com/JHwiMc1.png)
+
+## 8X 8 Chess Pattern With Few HTML ,CSS And JS  
+
+Helpful ? Give Star and don't forget to follow me on github
